@@ -1,0 +1,11 @@
+5
+
+NV101, Ngo Duy Tan, 20, Nam, 3.2, 7000000
+
+NV102, Nguyen Duc Nhat Long, 20, Nam, 3,7200000
+
+NV103, Nguyen Van Huy, 21, Nam, 3.1, 7100000
+
+NV104, Huynh Quang Dong, 20, Nam, 3.4, 7150000
+
+NV105, Vo Ngoc Bao Huy, 22, Nam, 3.3, 7050000

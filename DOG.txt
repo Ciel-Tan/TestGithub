@@ -1,0 +1,21 @@
+10
+
+D101, Corgi, 5, 50, 7, nau do, 1, 111
+
+D102, Poodle, 8, 73, 8.5, trang, 2, 22
+
+D103, Shiba Inu, 4, 45, 6, nau do, 3, 8
+
+D104, Alaska, 11, 87, 15.7, bo sua, 4, 33
+
+D105, Husky, 7, 72, 10, bo sua, 5, 121
+
+D106, Bull, 3, 40, 6.5, den, 6, 87
+
+D107, Pug, 6, 58, 7.8, xam, 7, 12
+
+D108, Boxer, 13, 100, 16.2, kem, 8, 9
+
+D109, Chihuahua, 9, 67, 11.1, bo sua, 9, 145
+
+D110, Becgie, 10, 70, 12, vang, 10, 152
