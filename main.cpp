@@ -81,6 +81,7 @@ string takePasswdFromUser1()
 
 int main()
 {
+    cout << "HEHEHE";
     QLCAT *p = new QLCAT(100);
     QLDOG *q = new QLDOG(100);
     QLNV R;
